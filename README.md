@@ -1,4 +1,3 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Debargha Nandi</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 <img align="right"alt="Code"width="400px" src="image22.gif">
