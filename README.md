@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Agriculture At A Glance](www.agricultureataglance.com)
 
-- 🌱 I’m currently learning **React From Coursera**
+- 🌱 I’m currently learning **React From Coursera.org**
 
 - 👯 I’m looking to collaborate on [Computer Science Notes](www.computerscnotes.com)
 
