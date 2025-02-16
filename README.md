@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debargha Nandi</h1>
-<h3 align="center">Front-End Web Developer</h3>
+<h3 align="center">Front-End Web App Developer</h3>
 <img align="right"alt="Code"width="400px" src="image222.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bargand&label=Profile%20views&color=0e75b6&style=flat" alt="bargand" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [www.agricultureataglance.com](www.agricultureataglance.com)
 
-- 💬 Ask me about **Python, Python Turtle, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, Python Turtle, HTML, CSS, JavaScript, ReactJS, MongoDB**
 
 - 📫 How to reach me **debarghanandi220@gmail.com**
 
