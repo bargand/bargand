@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debargha Nandi</h1>
 <h3 align="center">Web App Developer</h3>
-<img align="right"alt="Code"width="400px" src="image222.gif">
+<img align="right"alt="Code"width="400px" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bargand&label=Profile%20views&color=0e75b6&style=flat" alt="bargand" /> </p>
 
 - 🔭 I’m currently working on [Agriculture At A Glance](www.agricultureataglance.com)
